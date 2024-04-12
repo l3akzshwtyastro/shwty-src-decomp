@@ -1,0 +1,2 @@
+C:\Users\Xenotic\Desktop\Dnspy\DecompFile\#1Clicker.exe\Clicker\obj\Debug\Clicker.csproj.AssemblyReference.cache
+C:\Users\Xenotic\Desktop\Dnspy\DecompFile\#1Clicker.exe\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
